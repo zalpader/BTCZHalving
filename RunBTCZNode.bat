@@ -1,0 +1,1 @@
+start /min "BTCZ Node" bitcoinzd.exe -printtoconsole
