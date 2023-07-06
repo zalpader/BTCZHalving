@@ -6,7 +6,9 @@ Displays BTCZ halving information on the command line
 Install
 1. Install [Python](https://www.python.org/)
 2. Move BTCZHalving.py in the wallet folder where bitcoinz-wallet.exe is located
-3. if you want, also move RunBTCZNode.bat to easily run the full node from the command line
+3. If you want, also move RunBTCZNode.bat to easily run the full node from the command line
+4. Start a graphical interface wallet or a full command line node. The script needs this to know the current block for calculating the halving start date
+5. Run the BTCZHalving.py script itself
 
 If it doesn't work, check it
 1. Make sure you have install [Python](https://www.python.org/)
