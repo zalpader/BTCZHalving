@@ -17,6 +17,6 @@ If it doesn't work, check it
 
 
 
-[Address to tip BTCZ](https://explorer.btcz.rocks/address/t1Jfjbz9v6BDRNbVLLi9qLe3kQhfXy7p2Sd): t1Jfjbz9v6BDRNbVLLi9qLe3kQhfXy7p2Sd
+[Address to tip BTCZ](https://explorer.btcz.rocks/address/t1ZaLpAdErZrLyJBswGo3KGWTTJNgQ6wTvb): t1ZaLpAdErZrLyJBswGo3KGWTTJNgQ6wTvb
 
 Thank you for using BTCZHalving and supporting
